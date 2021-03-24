@@ -48,11 +48,16 @@
 
 .title {
   margin: 0 auto;
-  line-height: 1.15;
-  font-size: 3rem;
-  max-width: 980px;
+  line-height: 1.2;
+  max-width: 880px;
+  font-size: 2rem;
+  padding: 0 20px;
 }
-
+@media (min-width: 768px) {
+  .title {
+    font-size: 3.6rem;
+  }
+}
 .title,
 .description {
   text-align: center;
@@ -60,7 +65,11 @@
 
 .description {
   line-height: 1.5;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
+  padding: 0 20px;
+}
+.descriptionTag {
+  color: purple
 }
 
 .code {

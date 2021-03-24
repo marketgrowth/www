@@ -5,13 +5,16 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Market Growth - Hire on-demand senior marketing engineers </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
+        <p className={styles.descriptionTag}>
+          <code className={styles.code}>Market Growth, Inc.</code>
+        </p>
         <h1 className={styles.title}>
-          Hire on-demand senior marketing engineers to help your demand gen efforts. 
+          Get technical, on-demand help from marketing engineers to help your go-to-market efforts. 
         </h1>
 
         <p className={styles.description}>
@@ -48,7 +51,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-      Built in SV. &copy; 2021. Market Growth, Inc. All Rights Reserved.
+      &copy; 2021. Market Growth, Inc. All Rights Reserved.
       </footer>
     </div>
   )
