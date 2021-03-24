@@ -22,12 +22,12 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://segment.com" target="_blank" className={styles.card}>
-            <h3>Segment &rarr;</h3>
-            <p>Use this tool as 'air traffic control' to manage how your data sources and destinations interact.</p>
+          <a href="mailto:victor@marketgrowth.io" target="_blank" className={styles.card}>
+            <h3>Code vs. No-Code &rarr;</h3>
+            <p>We can inherit or jumpstart the design+build of your digital assets for lead gen efforts.</p>
           </a>
 
-          <a href="#" target="_blank" className={styles.card}>
+          <a href="mailto:victor@marketgrowth.io" target="_blank" className={styles.card}>
             <h3>Learn &rarr;</h3>
             <p><span style={{color: 'red'}}>Coming soon!</span> Insights on MarTech operations and latest trends to help you keep up.</p>
           </a>
