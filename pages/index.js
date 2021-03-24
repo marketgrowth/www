@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          <code className={styles.code}>We help instrument, manage, and integrate marketing websites and apps into your marketing technology stack.</code>
+          <code className={styles.code}>We instrument, manage, and integrate marketing websites and apps into your MarTech stack.</code>
         </p>
 
         <div className={styles.grid}>
