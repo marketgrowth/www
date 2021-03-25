@@ -23,7 +23,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="mailto:victor@marketgrowth.io" target="_blank" className={styles.card}>
-            <h3>Code vs. No-Code &rarr;</h3>
+            <h3>Code or No-Code &rarr;</h3>
             <p>We can inherit or jumpstart the design+build of your digital assets for lead gen efforts.</p>
           </a>
 
