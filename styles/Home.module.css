@@ -55,7 +55,7 @@
 }
 @media (min-width: 768px) {
   .title {
-    font-size: 3.6rem;
+    font-size: 3.2rem;
   }
 }
 .title,
@@ -67,7 +67,7 @@
   line-height: 1.5;
   font-size: 1.6rem;
   padding: 0 20px;
-  max-width: 800px;
+  max-width: 880px;
 }
 .descriptionTag {
   color: purple
@@ -87,7 +87,7 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  max-width: 800px;
+  max-width: 880px;
   margin-top: 3rem;
 }
 
