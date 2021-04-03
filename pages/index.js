@@ -14,7 +14,7 @@ export default function Home() {
           <code className={styles.code}>Market Growth, Inc.</code>
         </p>
         <h1 className={styles.title}>
-          Get technical, on-demand help from marketing engineers to ramp your go-to-market efforts. 
+          Get technical, on-demand help from marketing engineers to ramp up your go-to-market efforts. 
         </h1>
 
         <p className={styles.description}>
