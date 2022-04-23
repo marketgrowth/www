@@ -37,7 +37,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Who's here? &rarr;</h3>
-            <p>Currently not accepting new clients; although open to connect for OSS collab work.</p>
+            <p>We are a team of technical marketers who understand the complexity of integrating marketing technology operations.</p>
           </a>
 
           <a
