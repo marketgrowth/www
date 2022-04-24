@@ -24,7 +24,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="mailto:victor@marketgrowth.io" target="_blank" className={styles.card}>
             <h3>Code or No-Code &rarr;</h3>
-            <p>We can inherit or jumpstart the design+build of your digital assets for lead gen efforts.</p>
+            <p>We can inherit or jumpstart the design+build+integration of your digital assets used for go-to-market.</p>
           </a>
 
           <a href="mailto:victor@marketgrowth.io" target="_blank" className={styles.card}>
@@ -37,7 +37,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Who's here? &rarr;</h3>
-            <p>We are a team of technical marketers who understand the complexity of integrating marketing technology operations.</p>
+            <p>We are a team of technical marketers who understand the complexity of integrating marketing technology.</p>
           </a>
 
           <a
@@ -45,7 +45,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Contact &rarr;</h3>
-            <p>Have something interesting to share or just want to talk shop? Email me.</p>
+            <p>Select client engagements are available. Have something interesting to share or want to talk shop? Email me.</p>
           </a>
         </div>
       </main>
