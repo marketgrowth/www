@@ -51,7 +51,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-      &copy; 2021. Market Growth, Inc. All Rights Reserved.
+      &copy; 2022 Market Growth, Inc. All Rights Reserved.
       </footer>
     </div>
   )
