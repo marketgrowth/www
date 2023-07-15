@@ -5,16 +5,17 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Market Growth - Hire on-demand senior marketing engineers </title>
+        <title>MarketGrowth - Hire on-demand senior marketing engineers </title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="facebook-domain-verification" content="gwxm6d3nk7ff1zqln8nmymjfw4gfvz" />
       </Head>
 
       <main className={styles.main}>
         <p className={styles.descriptionTag}>
-          <code className={styles.code}>Market Growth, Inc.</code>
+          <code className={styles.code}>MarketGrowth LLC</code>
         </p>
         <h1 className={styles.title}>
-          Get technical, on-demand help from marketing engineers to ramp up your go-to-market efforts. 
+          We build and provide products and services for demand marketers. 
         </h1>
 
         <p className={styles.description}>
@@ -33,7 +34,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://growthux.com" target="_blank"
+            href="mailto:victor@marketgrowth.io" target="_blank"
             className={styles.card}
           >
             <h3>Who's here? &rarr;</h3>
@@ -51,7 +52,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-      &copy; 2022 Market Growth, Inc. All Rights Reserved.
+      &copy; 2023 MarketGrowth LLC. All Rights Reserved.
       </footer>
     </div>
   )
