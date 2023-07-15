@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>MarketGrowth - Hire on-demand senior marketing engineers </title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="facebook-domain-verification" content="gwxm6d3nk7ff1zqln8nmymjfw4gfvz" />
+        <meta name="facebook-domain-verification" content="kow3azuwhk2fw1a2sciaddcqinoohx" />
       </Head>
 
       <main className={styles.main}>
